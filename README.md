@@ -41,4 +41,3 @@
 <p align="center"><img align="center" width=500px src="https://github-readme-stats.vercel.app/api/top-langs?username=Terexes&show_icons=true&locale=en&layout=compact" alt="github statistics" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Terexes&" alt="github statistics" /></p>
-https://www.python.org/static/community_logos/python-powered-h.svg
