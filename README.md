@@ -1,11 +1,12 @@
 <h1 align="center">Hi there 👋, I'm Rafael.</h1>
 <h3 align="center">A passionate reader with a strange hook into troubleshooting, transitioning from logistics to backend development</h3>
+<br />
+<br />
 
-<section align="center">
   - 🌱 I’m currently learning **Node.js, Typescript, Express, SQL, Golang**
   - 👯 I’m looking to collaborate on **Backend projects that may or may not include the stack i'm currently working on. I'm allways open to learn new things.**
   - 📫 How to reach me: **rafamoreci@gmail.com**
-</section>
+
 
 <br />
 
