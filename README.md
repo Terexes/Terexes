@@ -13,7 +13,7 @@
 <section align="center">
   <h3>Connect with me at:</h3>
   <p>
-  <a href="https://www.linkedin.com/in/rafaelmoreci/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin logo" height="30" width="32" /></a>
+  <a href="https://www.linkedin.com/in/rafaelmoreci/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin logo" height="30" width="32" /></a>
   </p>
 <section>
 
