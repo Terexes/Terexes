@@ -3,7 +3,7 @@
 <br />
 <br />
 
-  - 🌱 I’m currently learning **Node.js, Typescript, Express, SQL, Golang, Python**
+  - 🌱 I’m currently learning **Node.js, React, Typescript, Express, SQL, NoSQL & Golang**
   - 👯 I’m looking to collaborate on **Backend projects that may or may not include the stack i'm currently working on. I'm allways open to learn new things.**
   - 📫 How to reach me: **rafamoreci@gmail.com**
 
